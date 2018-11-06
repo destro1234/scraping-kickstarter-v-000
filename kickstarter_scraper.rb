@@ -26,6 +26,7 @@ binding.pry
 
     }
   end
+  end
     projects
   end
 
